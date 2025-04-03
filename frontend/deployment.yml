@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: nextjs-frontend
-          image: 381492023411.dkr.ecr.ap-southeast-1.amazonaws.com/bento-frontend:1
+          image: 381492023411.dkr.ecr.ap-southeast-1.amazonaws.com/bento-frontend:2
           ports:
             - containerPort: 3000
           resources:
